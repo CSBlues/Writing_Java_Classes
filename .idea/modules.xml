@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Writing_Java_Classes.iml" filepath="$PROJECT_DIR$/.idea/modules/Writing_Java_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/Writing_Java_Classes.lesson1-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/Writing_Java_Classes.lesson1-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/Writing_Java_Classes.lesson1-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/Writing_Java_Classes.lesson1-task1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/Writing_Java_Classes.lesson1-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/Writing_Java_Classes.lesson1-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/Writing_Java_Classes.lesson1-task2.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/Writing_Java_Classes.lesson1-task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/Writing_Java_Classes.lesson1-task2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/Writing_Java_Classes.lesson1-task2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/Writing_Java_Classes.lesson1-task2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/Writing_Java_Classes.lesson1-task2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Writing_Java_Classes.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Writing_Java_Classes.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Writing_Java_Classes.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Writing_Java_Classes.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Writing_Java_Classes.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Writing_Java_Classes.util.test.iml" />
+    </modules>
+  </component>
+</project>

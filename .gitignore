@@ -1,0 +1,7 @@
+# Project exclude paths
+/.coursecreator/
+/.gradle/
+/lesson1/task1/build/
+/lesson1/task1/out/
+/lesson1/task1/out/production/classes/
+/lesson1/task2/build/

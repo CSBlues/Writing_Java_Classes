@@ -1,0 +1,27 @@
+type: edu
+files:
+- name: test/Tests.java
+  visible: false
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 73
+    length: 67
+    placeholder_text: '/* TODO: Create at least two Point objects and access it''s
+      properties and methods. */'
+- name: src/Point.java
+  visible: true
+  placeholders:
+  - offset: 23
+    length: 30
+    placeholder_text: '/* TODO: Create instance variables */'
+  - offset: 57
+    length: 117
+    placeholder_text: '/* TODO: Create at least two constructors */'
+  - offset: 178
+    length: 72
+    placeholder_text: '/* TODO: Create the translate method */'
+  - offset: 254
+    length: 76
+    placeholder_text: '/* TODO: Create the distanceToOrigin function that returns
+      a double. */'

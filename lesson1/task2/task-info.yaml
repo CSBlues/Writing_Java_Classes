@@ -1,0 +1,32 @@
+type: edu
+files:
+- name: test/Tests.java
+  visible: false
+- name: src/Circle.java
+  visible: true
+  placeholders:
+  - offset: 26
+    length: 56
+    placeholder_text: '/* TODO: Create your instance variables here. */'
+  - offset: 109
+    length: 54
+    placeholder_text: '/* TODO: Create the default constructor here. */'
+  - offset: 221
+    length: 58
+    placeholder_text: '/* TODO: Complete the constructor to set custom instance variable
+      values. */'
+  - offset: 311
+    length: 48
+    placeholder_text: '/* TODO: Complete the get area function. */'
+  - offset: 412
+    length: 190
+    placeholder_text: '/* TODO: Complete the isInCircle function. */'
+  - offset: 657
+    length: 36
+    placeholder_text: '/* TODO: Complete the translate function (similar to the Point.translate()
+      function). */'
+  - offset: 734
+    length: 19
+    placeholder_text: '/* TODO: Implement the tripleTheRadius function. */'
+- name: src/Main.java
+  visible: true
