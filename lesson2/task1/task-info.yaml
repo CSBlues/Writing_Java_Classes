@@ -1,0 +1,50 @@
+type: edu
+files:
+- name: test/Tests.java
+  visible: false
+- name: src/Main.java
+  visible: true
+- name: src/MyComplex.java
+  visible: true
+  placeholders:
+  - offset: 29
+    length: 44
+    placeholder_text: '/* TODO: Create two private instance variables double real
+      and double img */'
+  - offset: 79
+    length: 168
+    placeholder_text: '/* TODO: Create two constructors. One default and one that
+      takes two parameters. */'
+  - offset: 253
+    length: 248
+    placeholder_text: '/* TODO: Create the getters and setters for your instance variables.
+      */'
+  - offset: 507
+    length: 275
+    placeholder_text: '/* TODO: Override the toString() function to returnt the appropriate
+      complex number as a String. */'
+  - offset: 787
+    length: 247
+    placeholder_text: '/* TODO: Create the isReal() and isImaginary() functions that
+      each return a boolean. */'
+  - offset: 1040
+    length: 271
+    placeholder_text: '/* TODO: Create the add and multiply functions that each take
+      in a MyComplex type and add or multiply it with the current complex number.
+      */'
+  - offset: 1317
+    length: 47
+    placeholder_text: '/* TODO: Implement the conjugate() function that changes the
+      current instance into the conjugate of itself. */'
+  - offset: 1370
+    length: 92
+    placeholder_text: '/* TODO: Create the magnitude() function that will return a
+      double. */'
+  - offset: 1468
+    length: 99
+    placeholder_text: '/* TODO: Create the static addNew() function to take two complex
+      numbers and returns their sum. */'
+  - offset: 1572
+    length: 110
+    placeholder_text: '/* TODO: Create the static multiplyNew() function to take two
+      complex numbers and returns their product. */'
